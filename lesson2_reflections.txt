@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A. .git files are added. Need to do it to start version control in the directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A. Staging area helps offline work
