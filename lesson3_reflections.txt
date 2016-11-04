@@ -9,3 +9,7 @@ A. Because I don't want to be in the middle of something and have Git pull incom
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 A. fork - copy a repository to my account to make changes. clone - make a local copy of a repository. branch - make a separate copy locally to make changes and merge when required. this copy is not physically created but logically
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A. So that you can compare changes against the reference copy that you started working on/last saved.
