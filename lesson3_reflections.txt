@@ -17,3 +17,7 @@ A. So that you can compare changes against the reference copy that you started w
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 A. Would use manual backups. Nothing would be easier
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A. To work on experimental or new features without modifying a stable branch
