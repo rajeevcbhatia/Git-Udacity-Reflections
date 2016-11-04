@@ -13,3 +13,7 @@ A. fork - copy a repository to my account to make changes. clone - make a local 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A. So that you can compare changes against the reference copy that you started working on/last saved.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A. Would use manual backups. Nothing would be easier
